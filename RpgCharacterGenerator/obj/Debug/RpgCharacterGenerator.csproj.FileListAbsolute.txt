@@ -1,0 +1,14 @@
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\RpgCharacterGenerator.exe.config
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\RpgCharacterGenerator.exe
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\RpgCharacterGenerator.pdb
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\MySql.Data.dll
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\Google.Protobuf.dll
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\MySql.Data.xml
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csprojAssemblyReference.cache
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.frm_main.resources
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.Properties.Resources.resources
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csproj.GenerateResource.cache
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csproj.CopyComplete
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.exe
+C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.pdb
