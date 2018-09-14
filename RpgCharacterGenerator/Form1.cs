@@ -11,6 +11,9 @@ using MySql.Data.MySqlClient;
 
 namespace RpgCharacterGenerator
 {
+
+    using ResultSet = List<Dictionary<string, string>>;
+
     public partial class frm_main : Form
     {
         public frm_main()
@@ -20,14 +23,12 @@ namespace RpgCharacterGenerator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SQLCommon db = new SQLCommon();
-
-            MySqlDataReader sql = db.RunQuery("select * from property_value");
-
-            while (sql.Read())
-            {
-                richTextBox1.AppendText(sql.GetString("prop_value") + "\n");
-            }
+            PropGenerator prop = new PropGenerator();
+            prop.GetAllProperties();
+            richTextBox1.Clear();
+            richTextBox1.AppendText("Eye color: " + prop.FAllproperties["Eye color"]);
+            richTextBox1.AppendText("\n");
+            richTextBox1.AppendText("Race: " + prop.FAllproperties["Race"]);
         }
     }
 }
