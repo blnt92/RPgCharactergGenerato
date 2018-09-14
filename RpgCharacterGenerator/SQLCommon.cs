@@ -5,6 +5,37 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 
+/*
+ CREATE TABLE `character_properties` (
+  `character_id` int(11) NOT NULL,
+  `property_value_id` int(11) NOT NULL,
+  PRIMARY KEY (`character_id`,`property_value_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+CREATE TABLE `characters` (
+  `character_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `created_by` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `creadet` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`character_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+CREATE TABLE `property_types` (
+  `prop_type_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `prop_type_name` varchar(45) COLLATE utf8_unicode_ci NOT NULL,
+  `prop_type_value_type` varchar(45) COLLATE utf8_unicode_ci NOT NULL,
+  PRIMARY KEY (`prop_type_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+CREATE TABLE `property_value` (
+  `prop_value_id` int(11) NOT NULL AUTO_INCREMENT,
+  `prop_type_id` int(11) NOT NULL,
+  `prop_value` varchar(150) COLLATE utf8_unicode_ci NOT NULL,
+  PRIMARY KEY (`prop_value_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=17 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+*/
+
 
 namespace RpgCharacterGenerator
 { 
