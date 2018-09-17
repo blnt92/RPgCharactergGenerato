@@ -12,3 +12,17 @@ C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\D
 C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csproj.CopyComplete
 C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.exe
 C:\Users\Toto\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.pdb
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\RpgCharacterGenerator.exe.config
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\RpgCharacterGenerator.exe
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\RpgCharacterGenerator.pdb
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\MySql.Data.dll
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\Google.Protobuf.dll
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\bin\Debug\MySql.Data.xml
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csprojAssemblyReference.cache
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.Properties.Resources.resources
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csproj.GenerateResource.cache
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.csproj.CopyComplete
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.exe
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.pdb
+C:\Users\blnt\Documents\GitHub\RPgCharactergGenerato\RpgCharacterGenerator\obj\Debug\RpgCharacterGenerator.Main_Box.resources

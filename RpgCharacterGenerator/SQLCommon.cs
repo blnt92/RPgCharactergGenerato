@@ -39,7 +39,7 @@ CREATE TABLE `property_value` (
 
 namespace RpgCharacterGenerator
 { 
-
+    
     using ResultSet = List<Dictionary<string, string>>;
 
     class SQLCommon

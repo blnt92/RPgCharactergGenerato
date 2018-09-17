@@ -42,6 +42,7 @@ namespace RpgCharacterGenerator
 
                 if (Vals.Count > 0)
                 {
+                    //List random választás
                     Random rnd = new Random();
                     FAllproperties.Add(Properties[i]["prop_type_name"], Vals[rnd.Next(0, Vals.Count)]);
                 }  
